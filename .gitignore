@@ -1,0 +1,10 @@
+.idea
+*.py.swp
+*.pyc
+venv/
+lib/osfucn.sublime-project
+lib/osfucn.sublime-workspace
+untitled*
+build/
+dist/
+osfunc.egg-info/
